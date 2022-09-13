@@ -48,9 +48,6 @@ IP-CIDR,103.41.167.236/32
 IP-CIDR,118.89.204.198/32
 IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128
 
-# ======= 国家反诈中心 ======= #
-DOMAIN-SUFFIX,gjfzpt.cn,REJECT 
-
 # ======= 抖音 ======= #
 # 请求域名过多，建议全局代理
 DOMAIN-KEYWORD,core-c-lq
@@ -84,7 +81,6 @@ DOMAIN,api.coolapk.com
 
 # ======= 豆瓣 ======= #
 # iOS客户端，目前无法可靠地处理iOS端的请求，建议全局代理
-IP-CIDR,119.29.29.98/32,REJECT
 DOMAIN,frodo.douban.com
 # 网页端
 DOMAIN,www.douban.com

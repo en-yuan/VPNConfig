@@ -4,6 +4,7 @@ HOST,p9-ad-sign.byteimg.com,REJECT
 HOST-SUFFIX,byteimg.com,REJECT
 HOST-SUFFIX,bytescm.com,REJECT
 HOST-SUFFIX,fqnovel.com,REJECT
+HOST,api5-normal-lf.fqnovel.com,REJECT
 HOST,log5-applog-lf.fqnovel.com,REJECT
 HOST,rtlog5-applog-lf.fqnovel.com,REJECT
 HOST,i.snssdk.com,REJECT

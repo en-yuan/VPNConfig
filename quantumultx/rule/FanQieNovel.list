@@ -3,6 +3,9 @@ HOST,p6-ad-sign.byteimg.com,REJECT
 HOST,p9-ad-sign.byteimg.com,REJECT
 HOST-SUFFIX,byteimg.com,REJECT
 HOST-SUFFIX,bytescm.com,REJECT
+HOST-SUFFIX,fqnovel.com,REJECT
+HOST,log5-applog-lf.fqnovel.com,REJECT
+HOST,rtlog5-applog-lf.fqnovel.com,REJECT
 HOST,i.snssdk.com,REJECT
 HOST,i-lq.snssdk.com,REJECT
 HOST,dig.bdurl.net,REJECT

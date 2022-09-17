@@ -1,7 +1,7 @@
 # 番茄小说
 HOST,p6-ad-sign.byteimg.com,REJECT
 HOST,p9-ad-sign.byteimg.com,REJECT
-HOST-SUFFIX,byteimg.com,DIRECT
+HOST-SUFFIX,byteimg.com,REJECT
 HOST,i.snssdk.com,REJECT
 HOST,i-lq.snssdk.com,REJECT
 HOST,dig.bdurl.net,REJECT
